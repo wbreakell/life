@@ -1,5 +1,7 @@
 # Life
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 Life is a WebGPU implementation of Conway's Game of Life.
 
 ## What is Conway's Game of Life?
