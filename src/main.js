@@ -1,3 +1,5 @@
+import './style.css';
+
 const GRID_SIZE = 32;
 const UPDATE_INTERVAL = 200; // Update every 200ms (5 times/sec)
 const WORKGROUP_SIZE = 8;
