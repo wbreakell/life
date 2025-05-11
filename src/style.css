@@ -6,10 +6,12 @@
 
 html {
   box-sizing: border-box;
+  color-scheme: light dark;
 }
 
 body {
   align-items: center;
+  background-color: light-dark(#fff, #131314);
   display: flex;
   justify-content: center;
   margin: 0;
