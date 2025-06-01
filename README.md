@@ -16,3 +16,23 @@ The "game" is played on a two-dimensional grid of square cells, each of which is
 4. **Reproduction:** Any dead cell with exactly three live neighbors becomes a live cell.
 
 The initial pattern constitutes the "seed" of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed—births and deaths occur simultaneously. The rules continue to be applied repeatedly to create further generations.
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/wbreakell/life.git
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
